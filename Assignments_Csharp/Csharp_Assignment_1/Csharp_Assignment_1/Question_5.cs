@@ -8,10 +8,10 @@ namespace Csharp_Assignment_1
         //5.  Write a C# program to compute the sum of two given integers. If two values are the same, return the triple of their sum.
         public static void Run()
         {
-            Console.Write("Enter first number: ");
+            Console.Write("Enter 1st number: ");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter second number: ");
+            Console.Write("Enter 2nd number: ");
             int num2 = int.Parse(Console.ReadLine());
 
             int sum = num1 + num2;
