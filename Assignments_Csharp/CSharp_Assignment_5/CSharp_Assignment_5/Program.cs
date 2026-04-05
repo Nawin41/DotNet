@@ -6,8 +6,11 @@ namespace CSharp_Assignment_5
     {
         static void Main(string[] args)
         {
+            //Question 1
             BankApplication.Start();
+            //Question 2
             Scholarship.ApplyScholarship();
+            //Question 3
             BookShelfOperations.Start();
         }
     }
