@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\textappend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\textappend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\cricketteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\cricketteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\ringtoneplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\ringtoneplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\screendisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\screendisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_3\\c_sharp_code_challenge_3\\vibrationmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BBFD6-CF1E-4B51-A997-4632084E21B6}|C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3.csproj|solutionrelative:c_sharp_code_challenge_3\\vibrationmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VibrationMotor.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\VibrationMotor.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\VibrationMotor.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\VibrationMotor.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\VibrationMotor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:51:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScreenDisplay.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\ScreenDisplay.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\ScreenDisplay.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\ScreenDisplay.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\ScreenDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:51:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RingtonePlayer.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\RingtonePlayer.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\RingtonePlayer.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\RingtonePlayer.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\RingtonePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:50:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\MobilePhone.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\MobilePhone.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\MobilePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:49:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextAppend.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\TextAppend.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\TextAppend.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\TextAppend.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\TextAppend.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:36:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CricketTeam.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\CricketTeam.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\CricketTeam.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\CricketTeam.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\CricketTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:27:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_3\\Program.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_3\\C_Sharp_Code_Challenge_3\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:23:18.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
