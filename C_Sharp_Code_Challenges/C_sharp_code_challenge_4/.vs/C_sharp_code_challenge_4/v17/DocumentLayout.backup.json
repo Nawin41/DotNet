@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838E642D-DD66-47D1-99FF-4EFDC269D9C9}|Employee_LINQ\\Employee_LINQ.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\employee_linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838E642D-DD66-47D1-99FF-4EFDC269D9C9}|Employee_LINQ\\Employee_LINQ.csproj|solutionrelative:employee_linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838E642D-DD66-47D1-99FF-4EFDC269D9C9}|Employee_LINQ\\Employee_LINQ.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\employee_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838E642D-DD66-47D1-99FF-4EFDC269D9C9}|Employee_LINQ\\Employee_LINQ.csproj|solutionrelative:employee_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2FE3F2-46DD-414A-A62B-ADD275ADCD22}|C_sharp_code_challenge_4.Tests\\C_sharp_code_challenge_4.Tests.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\c_sharp_code_challenge_4.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2FE3F2-46DD-414A-A62B-ADD275ADCD22}|C_sharp_code_challenge_4.Tests\\C_sharp_code_challenge_4.Tests.csproj|solutionrelative:c_sharp_code_challenge_4.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\factory\\ireportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\factory\\ireportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\factory\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\factory\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\products\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\products\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\products\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\products\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\products\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\products\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\reportgenerator_factorypattern\\products\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91CFE04-A26D-418D-9984-82DCC3AC569F}|ReportGenerator_FactoryPattern\\ReportGenerator_FactoryPattern.csproj|solutionrelative:reportgenerator_factorypattern\\products\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8FA377-EE66-4A4F-966D-867721D56D06}|C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\c_sharp_code_challenge_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8FA377-EE66-4A4F-966D-867721D56D06}|C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj|solutionrelative:c_sharp_code_challenge_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8FA377-EE66-4A4F-966D-867721D56D06}|C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\c_sharp_code_challenge_4\\distanceprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8FA377-EE66-4A4F-966D-867721D56D06}|C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj|solutionrelative:c_sharp_code_challenge_4\\distanceprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C_sharp_code_challenge_4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8FA377-EE66-4A4F-966D-867721D56D06}|C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj|c:\\training_dotnet\\dotnet\\code_challenges\\c_sharp_code_challenge_4\\c_sharp_code_challenge_4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\Employee_LINQ\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_LINQ\\Employee.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\Employee_LINQ\\Employee.cs",
+              "RelativeToolTip": "Employee_LINQ\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:36:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\Employee_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_LINQ\\Program.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\Employee_LINQ\\Program.cs",
+              "RelativeToolTip": "Employee_LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:35:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SummaryReport.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\SummaryReport.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Products\\SummaryReport.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\SummaryReport.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Products\\SummaryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:22:10.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TabularReport.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\TabularReport.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Products\\TabularReport.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\TabularReport.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Products\\TabularReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:21:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartReport.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\ChartReport.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Products\\ChartReport.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\ChartReport.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Products\\ChartReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:21:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\IReport.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Products\\IReport.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Products\\IReport.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Products\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:21:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportFactory.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Factory\\ReportFactory.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Factory\\ReportFactory.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Factory\\ReportFactory.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Factory\\ReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:20:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportFactory.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Factory\\IReportFactory.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Factory\\IReportFactory.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Factory\\IReportFactory.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Factory\\IReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:20:35.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ReportGenerator_FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\ReportGenerator_FactoryPattern\\Program.cs",
+              "RelativeToolTip": "ReportGenerator_FactoryPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:19:11.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "C_sharp_code_challenge_4.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "C_sharp_code_challenge_4.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:12:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "C_sharp_code_challenge_4",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj",
+              "RelativeDocumentMoniker": "C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj",
+              "RelativeToolTip": "C_sharp_code_challenge_4\\C_sharp_code_challenge_4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T05:10:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DistanceProgram.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\DistanceProgram.cs",
+              "RelativeDocumentMoniker": "C_sharp_code_challenge_4\\DistanceProgram.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\DistanceProgram.cs",
+              "RelativeToolTip": "C_sharp_code_challenge_4\\DistanceProgram.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:54:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\Program.cs",
+              "RelativeDocumentMoniker": "C_sharp_code_challenge_4\\Program.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\Code_Challenges\\C_sharp_code_challenge_4\\C_sharp_code_challenge_4\\Program.cs",
+              "RelativeToolTip": "C_sharp_code_challenge_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:50:19.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

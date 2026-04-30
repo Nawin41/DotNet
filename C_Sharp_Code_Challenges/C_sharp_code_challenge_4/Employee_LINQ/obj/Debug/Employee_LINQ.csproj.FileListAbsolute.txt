@@ -1,0 +1,8 @@
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\bin\Debug\Employee_LINQ.exe.config
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\bin\Debug\Employee_LINQ.exe
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\bin\Debug\Employee_LINQ.pdb
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\obj\Debug\Employee_LINQ.csproj.AssemblyReference.cache
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\obj\Debug\Employee_LINQ.csproj.CoreCompileInputs.cache
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\obj\Debug\Employee_LINQ.exe
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\obj\Debug\Employee_LINQ.pdb
+C:\Training_DotNet\DotNet\Code_Challenges\C_sharp_code_challenge_4\Employee_LINQ\obj\Debug\Employee_LINQ.exe.config

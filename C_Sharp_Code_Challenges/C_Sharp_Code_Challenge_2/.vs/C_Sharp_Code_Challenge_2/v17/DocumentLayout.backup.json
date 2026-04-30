@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\graduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\graduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\undergraduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\undergraduate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\checknumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\checknumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|c:\\training_dotnet\\code_challenges\\c_sharp_code_challenge_2\\c_sharp_code_challenge_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1CF18F-6CC0-40E2-9967-43A186D427FC}|C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2.csproj|solutionrelative:c_sharp_code_challenge_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Calculator.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Calculator.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Calculator.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:44:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckNumber.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\CheckNumber.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\CheckNumber.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\CheckNumber.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\CheckNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:41:54.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Products.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Products.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Products.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Products.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:35:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graduate.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Graduate.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Graduate.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Graduate.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Graduate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:28:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Undergraduate.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Undergraduate.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Undergraduate.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Undergraduate.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Undergraduate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:28:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Student.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Student.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Student.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:27:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentTest.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\StudentTest.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\StudentTest.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\StudentTest.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\StudentTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:26:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Code_Challenge_2\\Program.cs",
+              "ToolTip": "C:\\Training_DotNet\\Code_Challenges\\C_Sharp_Code_Challenge_2\\C_Sharp_Code_Challenge_2\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Code_Challenge_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:18:26.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
