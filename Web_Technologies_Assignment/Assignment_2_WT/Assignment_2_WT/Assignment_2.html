@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Assignment 2</title>
+</head>
+<body>
+
+    <h2>Open Console to See Outputs</h2>
+
+    <script>
+
+    //1. Area of Triangle
+    let a = 5, b = 6, c = 7;
+    let s = (a + b + c) / 2;
+    let area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+    console.log("1. Area of Triangle:", area);
+
+    //2.Pattern using nested loop
+    console.log("2. Pattern:");
+    for (let i = 1; i <= 5; i++) {
+        let row = "";
+        for (let j = 1; j <= i; j++) {
+            row += "* ";
+        }
+        console.log(row);
+    }
+
+    //3.Leap Year Check
+    let year = 2024; // you can change this value
+    if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
+        console.log("3.", year + " is a Leap Year");
+    } else {
+        console.log("3.", year + " is NOT a Leap Year");
+    }
+
+    //4.Days until Independence Day (Aug 15)
+    let today = new Date();
+    let yearNow = today.getFullYear();
+
+    let independenceDay = new Date(yearNow, 7, 15); // August = month 7
+
+    //If today is after Aug 15
+    if (today > independenceDay) {
+        independenceDay = new Date(yearNow + 1, 7, 15);
+    }
+
+    let diffTime = independenceDay - today;
+    let diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+    console.log("4. Days until Independence Day:", diffDays);
+
+    </script>
+
+</body>
+</html>
