@@ -26,7 +26,7 @@
     }
 
     //3.Leap Year Check
-    let year = 2024; // you can change this value
+    let year = 2024;
     if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
         console.log("3.", year + " is a Leap Year");
     } else {
@@ -37,7 +37,7 @@
     let today = new Date();
     let yearNow = today.getFullYear();
 
-    let independenceDay = new Date(yearNow, 7, 15); // August = month 7
+    let independenceDay = new Date(yearNow, 7, 15);
 
     //If today is after Aug 15
     if (today > independenceDay) {
