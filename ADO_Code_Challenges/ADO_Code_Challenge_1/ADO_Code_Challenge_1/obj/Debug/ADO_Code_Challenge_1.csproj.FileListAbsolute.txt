@@ -1,0 +1,8 @@
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\bin\Debug\ADO_Code_Challenge_1.exe.config
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\bin\Debug\ADO_Code_Challenge_1.exe
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\bin\Debug\ADO_Code_Challenge_1.pdb
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\obj\Debug\ADO_Code_Challenge_1.csproj.AssemblyReference.cache
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\obj\Debug\ADO_Code_Challenge_1.csproj.CoreCompileInputs.cache
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\obj\Debug\ADO_Code_Challenge_1.exe
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\obj\Debug\ADO_Code_Challenge_1.pdb
+C:\Training_DotNet\DotNet\ADO_Code_Challenges\ADO_Code_Challenge_1\ADO_Code_Challenge_1\obj\Debug\ADO_Code_Challenge_1.exe.config
