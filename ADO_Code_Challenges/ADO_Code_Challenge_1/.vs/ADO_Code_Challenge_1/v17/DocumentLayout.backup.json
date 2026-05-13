@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Training_DotNet\\DotNet\\ADO_Code_Challenges\\ADO_Code_Challenge_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165D50FA-089D-4B5E-8626-E6DAD440CB86}|ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj|c:\\training_dotnet\\dotnet\\ado_code_challenges\\ado_code_challenge_1\\ado_code_challenge_1\\question_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{165D50FA-089D-4B5E-8626-E6DAD440CB86}|ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj|C:\\Training_DotNet\\DotNet\\ADO_Code_Challenges\\ADO_Code_Challenge_1\\ado_code_challenge_1\\question_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165D50FA-089D-4B5E-8626-E6DAD440CB86}|ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj|solutionrelative:ado_code_challenge_1\\question_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -12,9 +12,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ADO_Code_Challenge_1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D50FA-089D-4B5E-8626-E6DAD440CB86}|ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj|c:\\training_dotnet\\dotnet\\ado_code_challenges\\ado_code_challenge_1\\ado_code_challenge_1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +32,7 @@
               "ToolTip": "C:\\Training_DotNet\\DotNet\\ADO_Code_Challenges\\ADO_Code_Challenge_1\\ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj",
               "RelativeToolTip": "ADO_Code_Challenge_1\\ADO_Code_Challenge_1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-13T05:34:46.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T05:34:46.408Z"
             },
             {
               "$type": "Document",
@@ -46,7 +42,7 @@
               "RelativeDocumentMoniker": "ADO_Code_Challenge_1\\Question_2.cs",
               "ToolTip": "C:\\Training_DotNet\\DotNet\\ADO_Code_Challenges\\ADO_Code_Challenge_1\\ADO_Code_Challenge_1\\Question_2.cs",
               "RelativeToolTip": "ADO_Code_Challenge_1\\Question_2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T05:22:31.122Z",
               "EditorCaption": ""
@@ -59,7 +55,7 @@
               "RelativeDocumentMoniker": "ADO_Code_Challenge_1\\Question_1.cs",
               "ToolTip": "C:\\Training_DotNet\\DotNet\\ADO_Code_Challenges\\ADO_Code_Challenge_1\\ADO_Code_Challenge_1\\Question_1.cs",
               "RelativeToolTip": "ADO_Code_Challenge_1\\Question_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T04:25:03.199Z",
               "EditorCaption": ""

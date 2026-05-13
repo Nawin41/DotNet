@@ -13,7 +13,7 @@ namespace ADO_Code_Challenge_1
             SqlCommand cmd = new SqlCommand("UpdateSalary", con);
             cmd.CommandType = CommandType.StoredProcedure;
 
-            cmd.Parameters.AddWithValue("@Empno", 3);
+            cmd.Parameters.AddWithValue("@Empno", 1);
 
             SqlParameter outParam = new SqlParameter("@UpdatedSalary", SqlDbType.Decimal);
             outParam.Direction = ParameterDirection.Output;
