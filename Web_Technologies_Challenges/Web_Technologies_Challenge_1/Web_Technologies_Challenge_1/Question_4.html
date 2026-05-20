@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("#hideBtn").click(function ()
+            {
+                $("table tr:odd").hide();
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <h1>Employee Table</h1>
+
+    <button id="hideBtn">Hide Odd Rows</button>
+
+    <br><br>
+
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Dept</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Nawin</td>
+            <td>Data Analytics</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Vijay</td>
+            <td>Business Analytics</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Surya</td>
+            <td>Development</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Dhanush</td>
+            <td>Testing</td>
+        </tr>
+    </table>
+
+</body>
+</html>

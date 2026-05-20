@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
+
+    <script>
+        $(document).ready(function ()
+        {
+
+            $("#myInput").change(function ()
+            {
+                let value = $(this).val();
+                $("#output").append("<p>Changed value: " + value + "</p>");
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <h1>Input Change</h1>
+    <input type="text" id="myInput" placeholder="Type and click outside">
+    <div id="output"></div>
+
+</body>
+</html>

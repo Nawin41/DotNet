@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+<body>
+
+    <h1>Odd and Even Numbers</h1>
+
+    <button onclick="checkNumbers()">Display Numbers</button>
+
+    <p id="output"></p>
+
+    <script>
+        function checkNumbers() {
+            let result = "";
+
+            for (let i = 0; i <= 15; i++) {
+                if (i % 2 === 0) {
+                    result += i + " is even <br>";
+                } else {
+                    result += i + " is odd <br>";
+                }
+            }
+
+            document.getElementById("output").innerHTML = result;
+        }
+    </script>
+
+</body>
+</html>
