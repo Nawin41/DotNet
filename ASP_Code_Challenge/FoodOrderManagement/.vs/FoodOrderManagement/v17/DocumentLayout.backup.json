@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\training_dotnet\\dotnet\\asp_code_challenge\\foodordermanagement\\foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83856681-814D-4608-BBD1-48851F363612}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Global.asax.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Global.asax.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:23:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:23:39.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:23:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStats.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:23:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStats.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:23:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:23:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuDetails.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:23:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEditMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:22:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditMenu.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:22:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuList.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:22:34.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuList.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:22:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:22:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:22:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Web.config",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeToolTip": "FoodOrderManagement\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T04:42:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Site.Master",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\ASP_Code_Challenge\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeToolTip": "FoodOrderManagement\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:36:02.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

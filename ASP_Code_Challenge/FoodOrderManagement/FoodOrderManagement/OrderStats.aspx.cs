@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace FoodOrderManagement
+{
+    public partial class OrderStats : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+            lblTotal.Text = "Total Visitors: " + Application["TotalUsers"];
+            lblActive.Text = "Active Users: " + Application["ActiveUsers"];
+
+        }
+    }
+}
