@@ -1,0 +1,35 @@
+﻿@model ContactApp.Models.Contact
+
+<h2>Create Contact</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        Id:
+        @Html.TextBoxFor(m => m.Id)
+        @Html.ValidationMessageFor(m => m.Id)
+    </div>
+
+    <div>
+        First Name:
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+
+    <div>
+        Last Name:
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+
+    <div>
+        Email:
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+
+    <br />
+
+    <input type="submit" value="Save" />
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
