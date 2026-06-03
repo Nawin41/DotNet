@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\movies\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\movies\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\movies\\bydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\movies\\bydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|c:\\training_dotnet\\dotnet\\mvc_code_challenges\\northwindmvcapp\\northwindmvcapp\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F824D230-30CB-4E8F-87CA-5132470E0D4B}|NorthwindMVCApp\\NorthwindMVCApp.csproj|solutionrelative:northwindmvcapp\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ByDirector.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\ByDirector.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Movies\\ByDirector.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\ByDirector.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Movies\\ByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:33:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ByYear.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\ByYear.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Movies\\ByYear.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\ByYear.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Movies\\ByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:33:29.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:32:55.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:32:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:31:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:27:57.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:26:31.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:25:48.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Web.config",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Web.config",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Web.config",
+              "RelativeToolTip": "NorthwindMVCApp\\Web.config",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-03T05:19:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\MovieContext.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:18:54.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\Movie.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:18:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Code\\Index.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\Index.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Code\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:03:59.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:58:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:54:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GermanyCustomers.cshtml",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Views\\Code\\GermanyCustomers.cshtml",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeToolTip": "NorthwindMVCApp\\Views\\Code\\GermanyCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:53:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "NorthwindMVCApp\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:46:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NorthwindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\NorthwindModel.edmx",
+              "RelativeDocumentMoniker": "NorthwindMVCApp\\Models\\NorthwindModel.edmx",
+              "ToolTip": "C:\\Training_DotNet\\DotNet\\MVC_Code_Challenges\\NorthwindMVCApp\\NorthwindMVCApp\\Models\\NorthwindModel.edmx [Diagram1]",
+              "RelativeToolTip": "NorthwindMVCApp\\Models\\NorthwindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-03T04:41:37.358Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

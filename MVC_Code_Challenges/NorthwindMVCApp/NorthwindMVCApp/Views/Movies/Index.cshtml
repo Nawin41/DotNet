@@ -1,0 +1,49 @@
+﻿@model List<NorthwindMVCApp.Models.Movie>
+
+<h2>Movies List</h2>
+
+<p>
+    @Html.ActionLink("Add Movie", "Create", "Movies")
+</p>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Director</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.MovieName</td>
+            <td>@m.DirectorName</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = m.Mid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = m.Mid })
+            </td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+<h3>Search Movies</h3>
+
+@using (Html.BeginForm("Search", "Movies", FormMethod.Post))
+{
+    <p>
+        Select Option:
+        <select name="option">
+            <option value="Year">Year</option>
+            <option value="Director">Director</option>
+        </select>
+    </p>
+
+    <p>
+        Enter Value:
+        <input type="text" name="value" />
+    </p>
+
+    <input type="submit" value="Search" />
+}

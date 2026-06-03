@@ -1,0 +1,12 @@
+﻿@model NorthwindMVCApp.Models.Movie
+
+<h2>Add Movie</h2>
+
+@using (Html.BeginForm())
+{
+    <p>Name: @Html.TextBoxFor(x => x.MovieName)</p>
+    <p>Director: @Html.TextBoxFor(x => x.DirectorName)</p>
+    <p>Date: @Html.TextBoxFor(x => x.DateOfRelease)</p>
+
+    <input type="submit" value="Save" />
+}
